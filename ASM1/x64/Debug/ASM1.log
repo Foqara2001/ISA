@@ -1,0 +1,14 @@
+﻿  ASM1.c
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\ASM1\ASM1.c(160,27): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char'
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\ASM1\ASM1.c(160,22): warning C4024: 'strstr': different types for formal and actual parameter 1
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\ASM1\ASM1.c(160,32): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\ASM1\ASM1.c(160,29): warning C4024: 'strstr': different types for formal and actual parameter 2
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\ASM1\ASM1.c(189,22): warning C4013: 'get_bigimm' undefined; assuming extern returning int
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\ASM1\ASM1.c(194,27): warning C4013: 'get_imm32' undefined; assuming extern returning int
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\ASM1\ASM1.c(220,11): warning C4013: 'get_imm8' undefined; assuming extern returning int
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\ASM1\ASM1.c(459,4): warning C4033: 'get_imm8' must return a value
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\ASM1\ASM1.c(506,4): warning C4033: 'get_imm32' must return a value
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\ASM1\ASM1.c(493): warning C4715: 'get_imm8': not all control paths return a value
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\ASM1\ASM1.c(534): warning C4715: 'get_imm32': not all control paths return a value
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\ASM1\ASM1.c(771): warning C4715: 'from_char_to_deci': not all control paths return a value
+  ASM1.vcxproj -> C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\ASM1\x64\Debug\ASM1.exe

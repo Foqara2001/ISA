@@ -1,0 +1,9 @@
+﻿  SIM1.c
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\SIM1\SIM1.c(113,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\SIM1\SIM1.c(147,75): warning C4020: 'createHwregtrace': too many actual parameters
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\SIM1\SIM1.c(153,23): warning C4020: 'createLeds': too many actual parameters
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\SIM1\SIM1.c(186,14): warning C4013: 'createMemout' undefined; assuming extern returning int
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\SIM1\SIM1.c(1088,1): warning C4029: declared formal parameter list different from definition
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\SIM1\SIM1.c(1294,1): warning C4029: declared formal parameter list different from definition
+C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\SIM1\SIM1.c(548): warning C4715: 'instructionOp': not all control paths return a value
+  SIM1.vcxproj -> C:\Users\Admin\OneDrive\שולחן העבודה\TAU\סמסטר 8\project1_208138156_322389982\ASM1\x64\Debug\SIM1.exe
